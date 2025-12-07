@@ -50,33 +50,6 @@ Currently, I am developing skills in full stack development, machine learning, a
 
 ---
 
-## Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/001rudra/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  <a href="https://leetcode.com/u/byte7_7/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="50" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giyuuou&layout=compact&theme=react&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
 ## Streak Stats
 <p align="center">
   <img 
