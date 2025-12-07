@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=1200&color=c5fff7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rudra+Pratap+Singh;Aspiring+Software+Engineer;Data+Analyst" />
 </p>
 
-
+---
 
 ## About Me
 
 I am a developer focused on building strong fundamentals in software engineering and data analysis.  
-Currently, I am developing skills in full stack development, machine learning, and data structures & algorithms to prepare for high-impact engineering roles.
+Currently, I am developing skills in full stack development, machine learning, and data structures and algorithms to prepare for high-impact engineering roles.
 
 ---
 
@@ -29,9 +29,10 @@ Currently, I am developing skills in full stack development, machine learning, a
 ---
 
 ## Skills
+
 <img align="right" src="https://komarev.com/ghpvc/?username=giyuuou&label=Profile+Views&color=2f80ed&style=flat-square" />
 
-### Languages, Libraries, Frameworks & Tools
+### Languages, Libraries, Frameworks and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,tailwind,react,nodejs,express,mongodb,postgres,flask,fastapi,git,github,vscode" />
 </p>
@@ -64,8 +65,33 @@ Currently, I am developing skills in full stack development, machine learning, a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyuuou&layout=compact&theme=react&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=giyuuou&layout=compact&theme=react&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## Streak Stats
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## Activity Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=giyuuou&theme=react&hide_border=true&area=true"
+  />
 </p>
 
 ---
