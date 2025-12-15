@@ -53,8 +53,8 @@ Currently, I am developing skills in full stack development, machine learning, a
 ## Streak Stats
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react"
+    alt="GitHub Stats"
   />
 </p>
 
