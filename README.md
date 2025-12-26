@@ -1,4 +1,4 @@
-<!-- Banner Section -->
+<!-- Banner Sectionn -->
 <p align="center">
   <img src="https://media1.tenor.com/m/zuPxK0Q7lxIAAAAC/waterfalls.gif" alt="banner" width="100%" />
 </p>
