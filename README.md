@@ -1,9 +1,7 @@
-<!-- Banner Section -->
 <p align="center">
   <img src="https://media1.tenor.com/m/zuPxK0Q7lxIAAAAC/waterfalls.gif" alt="banner" width="100%" />
 </p>
 
-<!-- Name + Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=1200&color=c5fff7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rudra+Pratap+Singh;Aspiring+Software+Engineer;Data+Analyst" />
 </p>
@@ -54,10 +52,7 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&rank_icon=github&theme=react&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&rank_icon=github&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -65,10 +60,7 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 ## GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,10 +68,7 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 ## Activity Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=giyuuou&theme=react&hide_border=true&area=true&radius=8"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giyuuou&theme=react&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph" />
 </p>
 
 ---
