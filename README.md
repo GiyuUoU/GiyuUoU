@@ -62,7 +62,7 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=giyuuou&theme=react&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -79,3 +79,4 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 </p>
 
 ---
+
