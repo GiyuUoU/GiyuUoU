@@ -13,7 +13,7 @@
 ## About Me
 
 I am a developer focused on building strong fundamentals in **software engineering** and **data analysis**.  
-Currently, I am sharpening my skills in **full-stack development, machine learning, data analytics, and DSA** to prepare for high-impact engineering roles.
+Currently, I am developing skills in **full-stack development, data analytics, machine learning, and DSA** to prepare for high-impact roles.
 
 ---
 
@@ -21,11 +21,11 @@ Currently, I am sharpening my skills in **full-stack development, machine learni
 
 <img align="right" src="https://media.tenor.com/w33hdDzoSE0AAAAi/haunter.gif" width="130" />
 
-- Full Stack Web Development  
-- Data Analysis & Machine Learning  
-- SQL, Pandas, Python Practice  
-- Data Structures & Algorithms  
-- Learning GenAI & LLM-powered apps  
+- Data Analysis (SQL, Pandas, Python)
+- Machine Learning fundamentals
+- Data Structures & Algorithms
+- Full Stack Web Development
+- GenAI & LLM-powered applications
 
 ---
 
@@ -55,18 +55,18 @@ Currently, I am sharpening my skills in **full-stack development, machine learni
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&rank_icon=github&theme=react&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 ---
 
-## Streak Stats
+## GitHub Streak
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=giyuuou&theme=react&hide_border=true"
+    src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
