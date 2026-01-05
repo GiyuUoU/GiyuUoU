@@ -1,7 +1,9 @@
+<!-- Banner Section -->
 <p align="center">
   <img src="https://media1.tenor.com/m/zuPxK0Q7lxIAAAAC/waterfalls.gif" alt="banner" width="100%" />
 </p>
 
+<!-- Name + Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=2500&pause=1200&color=c5fff7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rudra+Pratap+Singh;Aspiring+Software+Engineer;Data+Analyst" />
 </p>
@@ -11,7 +13,7 @@
 ## About Me
 
 I am a developer focused on building strong fundamentals in **software engineering** and **data analysis**.  
-Currently, I am developing skills in **full-stack development, data analytics, machine learning, and DSA** to prepare for high-impact roles.
+Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Development** to prepare for real-world roles.
 
 ---
 
@@ -49,18 +51,13 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 
 ---
 
-## GitHub Stats
+## GitHub Metrics (Stats + Streak)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img
+    src="https://metrics.lecoq.io/giyuuou?template=classic&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.analysis.timeout=15&languages.colors=github&languages.threshold=0%&followup=1&achievements=1&achievements.threshold=C&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&theme=dark"
+    alt="GitHub Metrics"
+  />
 </p>
 
 ---
@@ -68,7 +65,10 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giyuuou&theme=react&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=giyuuou&theme=react&hide_border=true&area=true&radius=8"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
