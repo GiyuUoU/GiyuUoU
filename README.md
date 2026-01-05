@@ -51,12 +51,19 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 
 ---
 
-## GitHub Metrics (Stats + Streak)
+## GitHub Stats & Streak
 
 <p align="center">
-  <img
-    src="https://metrics.lecoq.io/giyuuou?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%25&followup=1&achievements=1&achievements.threshold=C&config.timezone=Asia%2FCalcutta&theme=dark"
-    alt="GitHub Metrics"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
