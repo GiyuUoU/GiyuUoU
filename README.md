@@ -55,7 +55,7 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/giyuuou?template=classic&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.analysis.timeout=15&languages.colors=github&languages.threshold=0%&followup=1&achievements=1&achievements.threshold=C&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&theme=dark"
+    src="https://metrics.lecoq.io/giyuuou?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%25&followup=1&achievements=1&achievements.threshold=C&config.timezone=Asia%2FCalcutta&theme=dark"
     alt="GitHub Metrics"
   />
 </p>
