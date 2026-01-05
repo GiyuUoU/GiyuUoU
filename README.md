@@ -55,8 +55,8 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true"
-    alt="GitHub Stats"
+    src="https://gpvc4tk-dsc01.tky.vercel.app/api?username=giyuuou&show_updated=1&show_ids=1&show_planguages=1&show_clanguages=1&show_dprofile=1&show_pprofile=1&radius=10&border_radius=20&border=2&border_color=%23FF0000&theme=react&line_height=16"
+    alt="GitHub Profile Summary Card"
   />
 </p>
 
@@ -79,4 +79,3 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 </p>
 
 ---
-
