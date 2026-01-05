@@ -52,7 +52,7 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&rank_icon=github&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 ---
@@ -60,7 +60,7 @@ Currently, I am developing skills in **full-stack development, data analytics, m
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=giyuuou&theme=react&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 ---
