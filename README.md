@@ -55,15 +55,15 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=giyuuou&show_icons=true&theme=react&hide_border=true&include_all_commits=true&show_updated=true&line_height=16&border_radius=20&border=2&radius=10"
-    alt="Rudra Pratap Singh GitHub Stats"
+    src="https://gpvc4tk-dsc01.tky.vercel.app/api?username=giyuuou&show_updated=1&show_ids=1&show_planguages=1&show_clanguages=1&show_dprofile=1&show_pprofile=1&radius=10&border_radius=20&border=2&border_color=%23FF0000&theme=react&line_height=16"
+    alt="GitHub Profile Summary Card"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?theme=react&user=giyuuou&hide_border=true&border_radius=20&order=1"
-    alt="Rudra Pratap Singh GitHub Streak"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=giyuuou&theme=react&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -74,7 +74,7 @@ Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Dev
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=giyuuou&theme=react&hide_border=true&area=true&radius=8"
-    alt="Rudra Pratap Singh GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
 
