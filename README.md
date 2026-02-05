@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a developer focused on building strong fundamentals in **software engineering** and **data analysis**.  
+I am a developer focused on building strong fundamental in **software engineering** and **data analysis**.  
 Currently working on **SQL, Python, Pandas, Machine Learning, and Full Stack Development** to prepare for real-world roles.
 
 ---
